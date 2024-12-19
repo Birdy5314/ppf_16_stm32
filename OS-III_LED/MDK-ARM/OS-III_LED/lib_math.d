@@ -1,0 +1,12 @@
+os-iii_led\lib_math.o: uC-LIB\lib_math.c
+os-iii_led\lib_math.o: .\uC-LIB\lib_math.h
+os-iii_led\lib_math.o: .\uC-CPU\ARM-Cortex-M3\RealView\cpu.h
+os-iii_led\lib_math.o: .\uC-CPU\cpu_def.h
+os-iii_led\lib_math.o: .\uC-CONFIG\cpu_cfg.h
+os-iii_led\lib_math.o: .\uC-CPU\cpu_core.h
+os-iii_led\lib_math.o: .\uC-LIB\lib_def.h
+os-iii_led\lib_math.o: .\uC-LIB\lib_mem.h
+os-iii_led\lib_math.o: .\uC-CPU\cpu_core.h
+os-iii_led\lib_math.o: .\uC-CONFIG\lib_cfg.h
+os-iii_led\lib_math.o: .\uC-LIB\lib_str.h
+os-iii_led\lib_math.o: .\uC-LIB\lib_ascii.h
